@@ -6,8 +6,9 @@ public class practice {
 		System.out.println("happy ganthi jayanti");
 		System.out.println("happy selenium");
 		System.out.println("happy world");
-		System.out.println("practicing push operation");
-		System.out.println("practicing  2 push operation");
+		System.out.println("hello");
+		System.out.println("hello my");
+		System.out.println("good morning"); 
 
 }	
 
