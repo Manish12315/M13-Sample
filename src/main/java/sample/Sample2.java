@@ -6,6 +6,7 @@ public class Sample2 {
 		System.out.println("hello github");
 		System.out.println("hello");
 		System.out.println("pull operation");
+		System.out.println(" second pull operation");
 
 	}
 
