@@ -7,8 +7,8 @@ public class practice {
 		System.out.println("happy selenium");
 		System.out.println("happy world");
 		System.out.println("hello");
-		System.out.println("hello");
-		
+		System.out.println("hello my");
+
 
 }	
 
